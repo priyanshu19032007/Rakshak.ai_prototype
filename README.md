@@ -3,6 +3,7 @@
 # Smart City Surveillance System 🚓🔥
 
 **Team:** Khushi, Priyanshu, Ayush
+
 **College:** KITS, Ramtek (B.Tech 1st Year)
 
 ## 📝 Project Description
