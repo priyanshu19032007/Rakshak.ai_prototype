@@ -2,7 +2,7 @@
 "A Computer Vision based prototype for Crime and Fire detection using Python."
 # Smart City Surveillance System 🚓🔥
 
-**Team:** Khushi, Priyanshu, Ayush
+**Team:** Khushi, Priyanshu, Ayush, Vaibhavi
 
 **College:** KITS, Ramtek (B.Tech 1st Year)
 
